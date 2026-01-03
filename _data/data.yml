@@ -1,19 +1,19 @@
 name: Hey, I am Radomir Repin!
 
 contact:
-  github:
-  telegram:
+  github:  
+  telegram: 
   linkedin: radomir-repin-3b6442370
-  email:
+  email: rdm.wlt@gmail.com
   phone:
   gitlab:
   twitter:
   download:
   online:
-  fork:
-  calendar:
+  fork: https://github.com/wake0up0ne0/CV
+  calendar: https://calendly.com/radomir-repin
   print: Print this page 
-  timezone:
+  timezone: utc-3
 
 hardskills:
   skill:
@@ -31,7 +31,7 @@ softskills:
     - Strong attention to detail and code quality
 
 languages:
-  - idiom: English - B2
+  - idiom: English - C1
   - idiom: Russian - Native
   - idiom: Spanish - B1
 
